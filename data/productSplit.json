@@ -1,0 +1,12 @@
+{
+  "Chris Knighton": {
+    "shedOnly": {"cnvPct": 0.12, "avgSale": 9000},
+    "steelOnly": {"cnvPct": 0.14, "avgSale": 8500},
+    "total": {"cnvPct": 0.13, "avgSale": 8750}
+  },
+  "Jason Laird": {
+    "shedOnly": {"cnvPct": 0.10, "avgSale": 6500},
+    "steelOnly": {"cnvPct": 0.12, "avgSale": 6300},
+    "total": {"cnvPct": 0.11, "avgSale": 6400}
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "asd-leads",
+  "version": "1.0.0",
+  "description": "Using sales data and performance metrics to optimize lead dispersal and develop employee analysis and guided coaching prompts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "recommend": "node src/recommendLeads.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}

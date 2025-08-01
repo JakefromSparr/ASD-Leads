@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Chris Knighton",
+    "neededLeads": 51,
+    "recommendedSplit": {
+      "shed": 24,
+      "steel": 27
+    },
+    "trend": "positive",
+    "cnvAvg": 15,
+    "avgSale": 8820.89
+  },
+  {
+    "name": "Jason Laird",
+    "neededLeads": 106,
+    "recommendedSplit": {
+      "shed": 49,
+      "steel": 57
+    },
+    "trend": "positive",
+    "cnvAvg": 12,
+    "avgSale": 6620
+  }
+]

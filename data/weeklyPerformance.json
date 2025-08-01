@@ -1,0 +1,37 @@
+[
+  {
+    "week": "July W1",
+    "data": [
+      { "name": "Chris Knighton", "leads": 23, "contactPct": 0.43, "quotePct": 0.35, "cnvPct": 0.13, "avgSale": 8754.47 },
+      { "name": "Jason Laird", "leads": 20, "contactPct": 0.50, "quotePct": 0.40, "cnvPct": 0.10, "avgSale": 6500.00 }
+    ]
+  },
+  {
+    "week": "July W2",
+    "data": [
+      { "name": "Chris Knighton", "leads": 21, "contactPct": 0.48, "quotePct": 0.36, "cnvPct": 0.14, "avgSale": 8700.00 },
+      { "name": "Jason Laird", "leads": 22, "contactPct": 0.52, "quotePct": 0.42, "cnvPct": 0.11, "avgSale": 6600.00 }
+    ]
+  },
+  {
+    "week": "July W3",
+    "data": [
+      { "name": "Chris Knighton", "leads": 25, "contactPct": 0.45, "quotePct": 0.37, "cnvPct": 0.15, "avgSale": 8800.00 },
+      { "name": "Jason Laird", "leads": 24, "contactPct": 0.55, "quotePct": 0.43, "cnvPct": 0.12, "avgSale": 6550.00 }
+    ]
+  },
+  {
+    "week": "July W4",
+    "data": [
+      { "name": "Chris Knighton", "leads": 24, "contactPct": 0.47, "quotePct": 0.38, "cnvPct": 0.16, "avgSale": 8900.00 },
+      { "name": "Jason Laird", "leads": 23, "contactPct": 0.53, "quotePct": 0.44, "cnvPct": 0.13, "avgSale": 6700.00 }
+    ]
+  },
+  {
+    "week": "July W5",
+    "data": [
+      { "name": "Chris Knighton", "leads": 26, "contactPct": 0.49, "quotePct": 0.40, "cnvPct": 0.17, "avgSale": 8950.00 },
+      { "name": "Jason Laird", "leads": 25, "contactPct": 0.56, "quotePct": 0.45, "cnvPct": 0.14, "avgSale": 6750.00 }
+    ]
+  }
+]
